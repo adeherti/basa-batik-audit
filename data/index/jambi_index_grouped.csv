@@ -1,0 +1,162 @@
+path,fname,label,width,height,bytes,md5,dup_group
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo1.jpeg,angsoduo1.jpeg,batik-angso duo,575,596,187807,894ccd01a467cc167d4a595b161072ca,0
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo10.jpeg,angsoduo10.jpeg,batik-angso duo,880,649,312615,c9a60c60676215c17d1ed65775b0f618,1
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo11.jpeg,angsoduo11.jpeg,batik-angso duo,620,350,107950,d73e825dcae05ec180905eca54fbd1be,2
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo12.jpeg,angsoduo12.jpeg,batik-angso duo,882,472,432107,e8edd2405b8478ed0e98bdae5e25b1d0,3
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo13.jpeg,angsoduo13.jpeg,batik-angso duo,713,531,249878,591661ee3df6b1ec6cb586d91a1b7850,4
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo14.jpeg,angsoduo14.jpeg,batik-angso duo,1002,488,354219,6001419141f0da429d15c5cec6fd7a54,5
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo15.jpeg,angsoduo15.jpeg,batik-angso duo,1122,792,405636,c0b726af9f6dcb95ecba76638963b7cf,6
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo16.jpeg,angsoduo16.jpeg,batik-angso duo,1152,959,385075,8a652a4cdca7031187ee41485cdd9dcd,7
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo17.jpeg,angsoduo17.jpeg,batik-angso duo,1197,1193,973316,16b0abc5585af2cfdbdf2b47579268c4,8
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo18.jpeg,angsoduo18.jpeg,batik-angso duo,976,880,335011,4ba87b5b931536a7e5b242c41ea2bc90,9
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo19.jpeg,angsoduo19.jpeg,batik-angso duo,1320,820,518732,82e1ff9204cd127412d3a709fa690ed8,10
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo2.jpeg,angsoduo2.jpeg,batik-angso duo,576,513,68751,552e1ac2fd08e25841d4d7a67ea97e53,11
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo20.jpeg,angsoduo20.jpeg,batik-angso duo,1320,1255,504409,1a5933dc1919cc1a1f7e455b79013207,12
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo21.jpeg,angsoduo21.jpeg,batik-angso duo,1320,1291,581131,8707e636e97d69d95c7729099ead1e5f,13
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo22.jpeg,angsoduo22.jpeg,batik-angso duo,1280,795,476150,a87900b6c57de54dbe64a959f7a35412,10
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo23.jpeg,angsoduo23.jpeg,batik-angso duo,1280,801,525751,39e27d7affac6f9624ab6fe733dcd05e,15
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo24.jpeg,angsoduo24.jpeg,batik-angso duo,1280,896,543336,48352df415e040dae3c6f3dc51299c02,16
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo25.jpeg,angsoduo25.jpeg,batik-angso duo,1280,804,607439,983b06918568783d9f9fcec36fd3bf83,17
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo26.jpeg,angsoduo26.jpeg,batik-angso duo,1280,772,515257,fbc1cc9dba14e5f4e8a4b6c2cc4b0aac,18
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo28.jpeg,angsoduo28.jpeg,batik-angso duo,1280,842,594681,afc9ec647ffe1ad68af9c73e46c7c60c,19
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo29.jpeg,angsoduo29.jpeg,batik-angso duo,1280,796,640867,dcefe0fc37c01ff6216c2ca765a908cc,20
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo3.jpeg,angsoduo3.jpeg,batik-angso duo,869,633,253963,634bf1d491e6308e54ab688f1a9f668d,21
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo30.jpeg,angsoduo30.jpeg,batik-angso duo,1280,828,680600,c8769c361c353df3144c3e8f815c814d,22
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo31.jpeg,angsoduo31.jpeg,batik-angso duo,1280,835,391371,fc2416d51cfbe91781e9d31257fc9352,23
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo32.jpeg,angsoduo32.jpeg,batik-angso duo,1280,855,605867,83abdd1956a55ca60989fbd8e1502fed,24
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo33.jpeg,angsoduo33.jpeg,batik-angso duo,1280,831,499642,e385982091bad7422aa44786e4fc623c,25
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo34.jpeg,angsoduo34.jpeg,batik-angso duo,1189,1223,634882,bb50f7c05931ced00afb5017be7f2e1b,26
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo35.jpeg,angsoduo35.jpeg,batik-angso duo,1280,640,296783,d4e560a55100706aa664da5ab15ca291,27
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo4.jpeg,angsoduo4.jpeg,batik-angso duo,854,646,233363,78ce36a5d84ff2850e5e277535524ff4,28
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo5.jpeg,angsoduo5.jpeg,batik-angso duo,694,653,260941,89d83b92bfea9b9caab7e846736d7b90,29
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo6.jpeg,angsoduo6.jpeg,batik-angso duo,873,695,265365,b7c87810d1f29bca569a9dfa0c606497,30
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo7.jpeg,angsoduo7.jpeg,batik-angso duo,859,638,175765,d7a03a20aea482e7661a088a69ff6c1f,31
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo8.jpeg,angsoduo8.jpeg,batik-angso duo,871,642,257415,7cad48dc0e99adc731e8ba4ff246841f,21
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-angso duo/angsoduo9.jpeg,angsoduo9.jpeg,batik-angso duo,578,632,151807,b86ed8097903b8a1d25fe49b44dd99df,33
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari1.jpeg,batanghari1.jpeg,batik-batanghari,620,350,89150,f3ce7a6453517321e7e4d77053a41abc,34
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari10.jpeg,batanghari10.jpeg,batik-batanghari,460,599,108707,cb5ee50b7a6a958a296dde15b3781e93,35
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari11.jpeg,batanghari11.jpeg,batik-batanghari,457,585,105465,d038c5bc3027fabc244a57d489c363f5,36
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari12.jpeg,batanghari12.jpeg,batik-batanghari,575,732,122245,eda09e2a1b283a1f7feef2c6fab80f4f,37
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari13.jpeg,batanghari13.jpeg,batik-batanghari,432,743,152621,27098115a42307d04581bd9b85765b81,38
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari14.jpeg,batanghari14.jpeg,batik-batanghari,1017,1150,652157,8c6e3baeffc259c58b5a05afec93c1ab,39
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari15.jpeg,batanghari15.jpeg,batik-batanghari,880,924,352446,85b4da1f1b129234e707bbc3058dea41,40
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari16.jpeg,batanghari16.jpeg,batik-batanghari,1292,1284,966380,f424440ed84994b02a0ad69c72f3893a,41
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari17.jpeg,batanghari17.jpeg,batik-batanghari,607,907,194587,b70aa6ac59b15071aefa8c300e04a7b7,42
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari18.jpeg,batanghari18.jpeg,batik-batanghari,819,760,220417,dcc3181fb431f343e12e59fd2ca04478,43
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari19.jpeg,batanghari19.jpeg,batik-batanghari,593,949,247504,af005595846cf75b51d6740b069de27b,44
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari2.jpeg,batanghari2.jpeg,batik-batanghari,918,559,484420,afc674ce8b6f372a902834f224d988a9,45
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari20.jpeg,batanghari20.jpeg,batik-batanghari,1320,1146,460901,2dc02e35d857e9b624104334db1e2505,46
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari21.jpeg,batanghari21.jpeg,batik-batanghari,763,733,425693,585f8750587deeb92609f593e6d8235f,47
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari21.jpg,batanghari21.jpg,batik-batanghari,465,246,78056,bef098ae9da82c39f3272c2495cad2e6,48
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari22.jpeg,batanghari22.jpeg,batik-batanghari,797,713,376919,0756561a0ad1c44b13fda06d827346ba,49
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari23.jpeg,batanghari23.jpeg,batik-batanghari,629,705,298724,e43413a1aded93e73875b1b215c955ce,50
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari24.jpeg,batanghari24.jpeg,batik-batanghari,721,706,366929,9f849e424db73e6eb099a04332103f84,51
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari25.jpeg,batanghari25.jpeg,batik-batanghari,802,765,447384,8c2fbb34f31e8162f6c4cf9562605820,52
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari26.jpeg,batanghari26.jpeg,batik-batanghari,804,695,346917,668370352b69c139ac728fe03d4b5011,53
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari27.jpeg,batanghari27.jpeg,batik-batanghari,747,764,330746,3dfd7b2e4fba5fea2f13efe4183ef72f,54
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari28.jpeg,batanghari28.jpeg,batik-batanghari,592,692,200431,a0d43f73912ff91534b3fc415bf0169b,55
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari29.jpeg,batanghari29.jpeg,batik-batanghari,355,622,112126,eb21815531b24ac2c743f32c20050d13,56
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari3.jpg,batanghari3.jpg,batik-batanghari,474,311,35841,b338570a90310411e00c3913d890f499,57
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari30.jpeg,batanghari30.jpeg,batik-batanghari,516,499,152652,25a930b5ae2b6800bc54734b0bcccd74,58
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari31.jpeg,batanghari31.jpeg,batik-batanghari,483,407,127698,47db6a56694ecdfd7a3311660d57ed74,59
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari32.jpeg,batanghari32.jpeg,batik-batanghari,531,434,133203,b95ee4f905db372754bb2ac975905c8d,60
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari4.jpeg,batanghari4.jpeg,batik-batanghari,393,382,155602,afacf978cda511c16f9231a12f2e6d83,61
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari5.jpg,batanghari5.jpg,batik-batanghari,711,957,345645,b67244d99e473b01c551e34904888d90,62
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari6.jpeg,batanghari6.jpeg,batik-batanghari,560,651,188931,9f118e0bc4c956141b4bd7b572280769,63
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari7.jpeg,batanghari7.jpeg,batik-batanghari,991,765,502801,4d8dfa4b02f8589d7aaba22f28d4d5ba,64
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari8.jpeg,batanghari8.jpeg,batik-batanghari,494,597,167582,0caab5ca657ecc56cb6a1b3d765f19cc,65
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-batanghari/batanghari9.jpeg,batanghari9.jpeg,batik-batanghari,1004,808,388998,474f4624acc5b1341cfdcd148bbc11e3,66
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi1.jpeg,bijikopi1.jpeg,batik-biji kopi,721,747,224899,a603277d7d06ee9b7be6a819199230ab,67
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi10.jpeg,bijikopi10.jpeg,batik-biji kopi,722,795,254417,5c95f795737ecba1f43010d639f4b622,68
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi11.jpeg,bijikopi11.jpeg,batik-biji kopi,720,790,251878,0585a545b406e285a01f400ad44530ef,69
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi12.jpeg,bijikopi12.jpeg,batik-biji kopi,743,767,396484,0c49fe78ea3d0ac7d2b9767e20df1373,70
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi13.jpeg,bijikopi13.jpeg,batik-biji kopi,743,783,339741,4eab10b3760d0d057062ab90256d51f2,71
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi14.jpeg,bijikopi14.jpeg,batik-biji kopi,725,763,336534,56d7d6c28bbcccb93de1670a420a2637,72
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi15.jpeg,bijikopi15.jpeg,batik-biji kopi,349,460,62784,2fd92018201a4ac6fe7fc10b9b02054f,73
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi16.jpeg,bijikopi16.jpeg,batik-biji kopi,590,622,221629,46a15f9f40200134f3475fc33f17ba67,74
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi17.jpeg,bijikopi17.jpeg,batik-biji kopi,471,397,47157,4505841328f382a8652dd5b8f13cbed8,75
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi18.jpeg,bijikopi18.jpeg,batik-biji kopi,865,627,283401,d729c21009ca65099ea2ea0622409bfb,76
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi19.jpeg,bijikopi19.jpeg,batik-biji kopi,700,354,80228,4543ced96d8b3a75b56d64aacb247590,77
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi2.jpeg,bijikopi2.jpeg,batik-biji kopi,717,784,275005,ab7248dcef35c97186b5e7b28c1d90c1,78
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi20.jpeg,bijikopi20.jpeg,batik-biji kopi,687,377,157086,eb430bf1bbee32c35919d20eb9cc5c3b,79
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi21.jpeg,bijikopi21.jpeg,batik-biji kopi,868,855,459364,0d023b1a41f32f84bd204af8a35758d9,80
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi22.jpeg,bijikopi22.jpeg,batik-biji kopi,671,731,312565,0ff3de8f6d49038c8d8586055c1ae164,81
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi23.jpeg,bijikopi23.jpeg,batik-biji kopi,863,844,481815,3f5e2e9e192212448f0590b33ebb145a,82
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi24.jpeg,bijikopi24.jpeg,batik-biji kopi,845,803,434413,23625d8eb764888dd25d99910c72f48f,83
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi25.jpeg,bijikopi25.jpeg,batik-biji kopi,855,849,472108,0ef3c1a70c6a97bb4dd0ba473f9e7d5a,84
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi26.jpeg,bijikopi26.jpeg,batik-biji kopi,840,843,398395,58099d86f799eeaefe7d1520617f43e1,85
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi27.jpeg,bijikopi27.jpeg,batik-biji kopi,837,893,229971,7903e543ca617904017c3bee44b1add5,86
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi28.jpeg,bijikopi28.jpeg,batik-biji kopi,838,873,324417,e535d122b03d4d177efe2cb9d9503379,87
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi29.jpeg,bijikopi29.jpeg,batik-biji kopi,834,579,212896,6041b48449e2c833c384dae77e3c880c,88
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi3.jpeg,bijikopi3.jpeg,batik-biji kopi,716,781,253180,6a43a7b2c90ab987522d09b040bf1068,89
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi30.jpeg,bijikopi30.jpeg,batik-biji kopi,745,396,194123,854d62199a5c749242431c4fc04ac07f,90
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi4.jpeg,bijikopi4.jpeg,batik-biji kopi,740,778,276586,6edbf55f318fbb137c4836e4dec3ce5c,91
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi5.jpeg,bijikopi5.jpeg,batik-biji kopi,727,761,212913,b6ce00f842a8d85fb17ee23e85eda21d,92
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi6.jpeg,bijikopi6.jpeg,batik-biji kopi,730,769,259831,3be35e6eec769d022d4377a55a3c72d4,93
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi7.jpeg,bijikopi7.jpeg,batik-biji kopi,715,781,396255,99cfc18aff0aa55eee98892bf733f667,94
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi8.jpeg,bijikopi8.jpeg,batik-biji kopi,741,782,263182,addc72b27578f3e785f31e8da09031df,95
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-biji kopi/bijikopi9.jpeg,bijikopi9.jpeg,batik-biji kopi,704,787,283269,2cdb7b3e1cf29ab9eebc132573fd9a78,96
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah1.jpg,durianpecah1.jpg,batik-durian pecah,633,450,141106,425a6e69f5f76618b46e112ad9110530,97
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah10.jpg,durianpecah10.jpg,batik-durian pecah,646,552,209594,4c7fcc528a4037268feced7d7ec39f5d,98
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah11.jpeg,durianpecah11.jpeg,batik-durian pecah,476,573,155387,35ca7d6d554c60225df7ee9565948038,99
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah12.jpg,durianpecah12.jpg,batik-durian pecah,364,552,104167,0a8c42771a2d50062bbe0b55edb8fd73,100
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah13.jpeg,durianpecah13.jpeg,batik-durian pecah,622,617,155363,e0c39f9fab64287ee9729cce645963fe,101
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah14.jpeg,durianpecah14.jpeg,batik-durian pecah,1320,1042,495276,59164a900c9ca28eee71c571544e9f9d,102
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah15.jpeg,durianpecah15.jpeg,batik-durian pecah,563,1042,250560,c7f50e1e0b2defd19c270ca56f2de160,103
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah16.jpeg,durianpecah16.jpeg,batik-durian pecah,1007,878,293152,cb7e3a7f8af2898d9514d68c332304ec,104
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah17.jpeg,durianpecah17.jpeg,batik-durian pecah,828,916,275722,7cf78e460c55e34e5c8cdae9f1ba2d87,105
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah18.jpeg,durianpecah18.jpeg,batik-durian pecah,1320,1210,481747,421c8d70568cda0f3f751e4a8ed4683d,106
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah19.jpeg,durianpecah19.jpeg,batik-durian pecah,1320,1220,446683,8de0d83fa831cc165c72d0f44d3e095f,107
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah2.jpg,durianpecah2.jpg,batik-durian pecah,500,300,62039,7728f50fe99e8c1ab6ed8753fa4cddb2,108
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah20.jpeg,durianpecah20.jpeg,batik-durian pecah,1320,1214,456115,bf14ce29bd8032782251eb8cc0c42f54,109
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah21.jpeg,durianpecah21.jpeg,batik-durian pecah,1165,1007,453009,e887f2217faf5dc1be92a57b2aba2e5e,110
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah22.jpeg,durianpecah22.jpeg,batik-durian pecah,995,1183,400731,ef8669ac792435dc2077c1aed733747a,111
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah23.jpeg,durianpecah23.jpeg,batik-durian pecah,1059,885,426508,31570f12c01e0436dea421b373cd0905,112
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah24.jpeg,durianpecah24.jpeg,batik-durian pecah,1033,1013,268715,2316397eb05504cb81744500b1071b2f,113
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah25.jpeg,durianpecah25.jpeg,batik-durian pecah,1320,1239,538706,52538442cb544adf9f22a158d06c424f,114
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah26.jpeg,durianpecah26.jpeg,batik-durian pecah,1147,900,506419,bf7bcec65c1249566a4c42e6412b9c5a,115
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah27.jpeg,durianpecah27.jpeg,batik-durian pecah,842,885,449375,d3e059150d6597e964637bf99700ccb9,116
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah28.jpeg,durianpecah28.jpeg,batik-durian pecah,1280,872,319982,aff05899c1c957b78e754a61bae5a7c5,117
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah29.jpeg,durianpecah29.jpeg,batik-durian pecah,703,760,178583,d309bcb6f6446b176c22d64c7ea48e16,118
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah3.jpg,durianpecah3.jpg,batik-durian pecah,600,452,90459,51b473a89438526b89a48d3dd550f74d,119
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah30.jpeg,durianpecah30.jpeg,batik-durian pecah,477,414,113787,34be7a2bdd2f8d4998d66b1ef0bb5cf0,120
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah31.jpeg,durianpecah31.jpeg,batik-durian pecah,752,799,283185,b6a2592f64ec3cde564197328af791be,121
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah32.jpeg,durianpecah32.jpeg,batik-durian pecah,694,392,145880,c71f75d0188126f33ba855a27d1e06f1,122
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah4.jpg,durianpecah4.jpg,batik-durian pecah,1024,768,158992,382899a403f2aa7c7e1b3b74d57bce00,123
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah5.jpeg,durianpecah5.jpeg,batik-durian pecah,1016,1009,662531,54c3f2c9ce1769d88fd090a058ede7fa,124
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah6.jpeg,durianpecah6.jpeg,batik-durian pecah,1099,825,816467,81327e9c91ee2e0dd7fce7aa36cba279,125
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah7.jpeg,durianpecah7.jpeg,batik-durian pecah,1386,889,1098712,70b1bad09b005f7b59f002f850d23cc3,126
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah8.jpeg,durianpecah8.jpeg,batik-durian pecah,491,424,194089,1c64267cfae6f51616019c2b82277749,127
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-durian pecah/durianpecah9.jpeg,durianpecah9.jpeg,batik-durian pecah,620,349,95823,1c58eb509bb27ab342e1fb6d32f9a0b6,128
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis1.jpeg,tampukmanggis1.jpeg,batik-tampuk manggis,734,749,255910,67f433ed76c37f65390d80ac9bb47f27,129
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis10.jpeg,tampukmanggis10.jpeg,batik-tampuk manggis,685,669,288789,bbc2053b884397c046635092f12104c1,130
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis11.jpeg,tampukmanggis11.jpeg,batik-tampuk manggis,711,697,258912,54c5acf03dcba9a19436784b861be44a,131
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis12.jpeg,tampukmanggis12.jpeg,batik-tampuk manggis,708,417,166028,5f28f67bd8d945dc3708f1a6c2865dc4,132
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis13.jpeg,tampukmanggis13.jpeg,batik-tampuk manggis,748,739,356494,67d0860bf32348272bd8bba1f28dd2c1,133
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis14.jpeg,tampukmanggis14.jpeg,batik-tampuk manggis,728,531,223154,12f75761a6e3d9869a6712ad36c33670,134
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis15.jpeg,tampukmanggis15.jpeg,batik-tampuk manggis,728,764,345367,411b569d47b2ce32e35175aecf5b12df,135
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis16.jpeg,tampukmanggis16.jpeg,batik-tampuk manggis,596,528,139864,ce84d36bf58f0ef650310334d787fe57,136
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis17.jpeg,tampukmanggis17.jpeg,batik-tampuk manggis,642,458,110364,3b4dfc398a62dedbff2179d68d131a4e,137
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis18.jpeg,tampukmanggis18.jpeg,batik-tampuk manggis,482,585,134113,a4c47f4834c6a37556e4e065524f0cb5,138
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis19.jpeg,tampukmanggis19.jpeg,batik-tampuk manggis,480,348,113340,e0bf7ae32a2381bd99182395cf6852b3,139
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis2.jpeg,tampukmanggis2.jpeg,batik-tampuk manggis,773,791,300301,aabb88bd6833de02f66be9ad363fa225,140
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis20.jpeg,tampukmanggis20.jpeg,batik-tampuk manggis,741,731,332305,7e46f94255be851f09e7f58e4752dd51,141
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis21.jpeg,tampukmanggis21.jpeg,batik-tampuk manggis,725,483,197579,ad3df6ce6f8f88141f99fa0dbd58bee6,142
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis22.jpeg,tampukmanggis22.jpeg,batik-tampuk manggis,749,528,221243,8605d0dd6c86b43be9ff3b0c2d27e71c,143
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis23.jpeg,tampukmanggis23.jpeg,batik-tampuk manggis,745,489,199320,fb252e47d8e0f6194f552e1cfabbe097,144
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis24.jpeg,tampukmanggis24.jpeg,batik-tampuk manggis,687,511,183427,2242537f1750e80c2eaf649baf669648,145
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis25.jpeg,tampukmanggis25.jpeg,batik-tampuk manggis,717,444,177188,05fdef71bb0fa1aac95c6b0657dea49c,146
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis26.jpeg,tampukmanggis26.jpeg,batik-tampuk manggis,650,463,129264,dec46d5bfe87d45bce30e465788065a1,147
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis27.jpeg,tampukmanggis27.jpeg,batik-tampuk manggis,704,427,142582,b638068e8523380c7d39bf1752a71121,148
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis29.jpeg,tampukmanggis29.jpeg,batik-tampuk manggis,650,453,138931,0e859b65f931aa438f097ff74f209566,149
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis3.jpeg,tampukmanggis3.jpeg,batik-tampuk manggis,744,465,201446,70d36581b65a1db54727411621b81b25,150
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis30.jpeg,tampukmanggis30.jpeg,batik-tampuk manggis,578,355,99101,0442fead7db490aff8bfe82ce8715392,151
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis31.jpeg,tampukmanggis31.jpeg,batik-tampuk manggis,764,626,242255,7268da84ea390b751305d5493baf6499,152
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis32.jpeg,tampukmanggis32.jpeg,batik-tampuk manggis,727,761,634482,ba08ba92f83ffff4612865cd235e8fb7,153
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis33.jpeg,tampukmanggis33.jpeg,batik-tampuk manggis,735,634,266996,164e272dbb0c22642829999ff48102a2,154
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis4.jpeg,tampukmanggis4.jpeg,batik-tampuk manggis,737,483,198632,fa0da8c217f5558426450ca8b5acf015,155
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis5.jpg,tampukmanggis5.jpg,batik-tampuk manggis,662,423,221425,a2380fec43fe97dd1050d802b9906aad,156
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis6.jpeg,tampukmanggis6.jpeg,batik-tampuk manggis,620,350,108208,7462d1ecb276cceea5b7ec56fc1b93a0,157
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis7.jpeg,tampukmanggis7.jpeg,batik-tampuk manggis,617,325,96547,cdab53cd9d6ddeb83f95a75f9cd4bb0b,158
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis8.jpeg,tampukmanggis8.jpeg,batik-tampuk manggis,658,665,288083,ad7b6e0d12a6e768af7141ee6a5f6777,159
+/kaggle/input/datasets/hertiyani/batik-jambi/batik jambi/batik-tampuk manggis/tampukmanggis9.jpeg,tampukmanggis9.jpeg,batik-tampuk manggis,759,735,385069,3e1eaddd3e3f8fbdcafc26409ae6dbd2,160

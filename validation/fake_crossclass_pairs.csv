@@ -1,0 +1,4 @@
+fname_i,label_i,fname_j,label_j,pix_corr,path_i,path_j
+img_050.jpg,kelas_2,img_051.jpg,kelas_3,0.9999,/kaggle/working/fake_ds/kelas_2/img_050.jpg,/kaggle/working/fake_ds/kelas_3/img_051.jpg
+img_027.jpg,kelas_1,img_028.jpg,kelas_2,0.9998,/kaggle/working/fake_ds/kelas_1/img_027.jpg,/kaggle/working/fake_ds/kelas_2/img_028.jpg
+img_004.jpg,kelas_0,img_005.jpg,kelas_1,0.9997,/kaggle/working/fake_ds/kelas_0/img_004.jpg,/kaggle/working/fake_ds/kelas_1/img_005.jpg

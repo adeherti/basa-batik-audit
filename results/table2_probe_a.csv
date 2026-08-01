@@ -1,0 +1,6 @@
+dataset,classes,chance,all_feat_mean,all_feat_std,colour_mean,colour_std,res_mean,res_std,perm_mean,perm_std,rdc_mean,rdc_std
+DION_FULL,20,5.0,23.6,0.4,17.8,0.7,20.4,0.4,4.9,1.1,4.1,0.1
+DION_LOOSE,20,5.0,23.0,0.7,19.0,1.3,19.7,1.1,5.4,0.5,3.9,0.2
+DION_STRICT,20,5.0,21.1,0.6,20.7,1.0,15.6,1.0,5.3,1.4,3.1,0.2
+JAMBI,5,20.0,54.1,2.3,35.2,1.9,53.5,1.3,20.9,4.7,2.7,0.1
+NITIK,60,1.7,86.7,0.6,86.4,0.3,1.6,0.0,2.4,0.5,0.9,0.0

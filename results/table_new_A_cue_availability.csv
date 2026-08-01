@@ -1,0 +1,6 @@
+dataset,K,colour_div_chance,res_div_chance,colour_share,res_share,dominant_cue
+NITIK,60,51.7,1.0,1.0,-0.0,COLOUR
+JAMBI,5,1.8,2.7,0.45,0.99,RESOLUTION
+DION_FULL,20,3.6,4.1,0.69,0.83,RESOLUTION
+DION_LOOSE,20,3.8,3.9,0.78,0.82,(tie)
+DION_STRICT,20,4.1,3.1,0.98,0.66,COLOUR

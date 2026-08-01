@@ -1,0 +1,4 @@
+dataset,n,exact_dup,dup_imgs_direct,dup_rate,dup_imgs_transitive,n_groups,largest,chained_clusters,xclass_pairs,xclass_images
+nitik,960,12,960,100.0,960,416,8,3,0,0
+dion,981,25,131,13.4,131,908,7,2,47,80
+jambi,161,0,4,2.5,4,159,2,0,0,0
